@@ -44,9 +44,6 @@ Je suis un développeur passionné par le développement web front-end et back-e
 
 ***
 
-## Languages utilisé dans les répositories
-
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliec-AQ&langs_count=8&theme=great-gatsby" />
 
 
 
