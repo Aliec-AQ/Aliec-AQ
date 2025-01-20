@@ -1,8 +1,8 @@
 # 👋 Hello,
 
-<div align="center">
+
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=Aliec-AQ&show_icons=true&theme=great-gatsby" />
-</div>
+
 
 Je suis un développeur passionné par le développement web front-end et back-end.
 
@@ -44,8 +44,8 @@ Je suis un développeur passionné par le développement web front-end et back-e
 ***
 
 ## Languages utilisé dans les répositories
-<div align="center">
+
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliec-AQ&langs_count=8&theme=great-gatsby" />
-</div>
+
 
 
