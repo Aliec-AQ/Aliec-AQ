@@ -1,6 +1,6 @@
 # 👋 Hello,
 
-<div style="display=flex; justify-content=space-around;">
+<div>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Aliec-AQ&theme=great-gatsby" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliec-AQ&theme=great-gatsby&layout=compact&langs_count=8&card_width=320" />
 </div>
