@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Aliec-AQ
+# 👋 Hello,
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aliec-AQ&show_icons=true&theme=highcontrast#gh-dark-mode-only)
 
