@@ -1,11 +1,13 @@
 # 👋 Hello,
 
+<div>
 <a href="https://github.com/Aliec-AQ">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Aliec-AQ&theme=great-gatsby" />
 </a>
 <a href="https://github.com/Aliec-AQ#langages">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliec-AQ&theme=great-gatsby&layout=compact&langs_count=8" />
 </a>
+</div>
 
 Je suis un développeur passionné par le développement web front-end et back-end.
 
@@ -46,21 +48,17 @@ Je suis un développeur passionné par le développement web front-end et back-e
 
 ***
 ## 🗃️ Projets divers 
-<div style="display:grid; grid: 1fr 1fr; justify-items: center;">
-<a href="https://github.com/Aliec-AQ/tower-defense">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=tower-defense&theme=great-gatsby" />
-</a>
-<a href="https://github.com/Aliec-AQ/manga-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=Aliec-AQ&theme=great-gatsby" />
-</a>
-<a href="https://github.com/Aliec-AQ/Interop-circulation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=Interop-circulation&theme=great-gatsby" />
-</a>
-<a href="https://github.com/Aliec-AQ/Interop-atmosphere">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=Interop-atmosphere&theme=great-gatsby" />
-</a>
+<div style="display: grid !important; justify-items: center !important; grid-template-columns: 1fr 1fr !important; gap: 20px !important;">
+  <a href="https://github.com/Aliec-AQ/tower-defense">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=tower-defense&theme=great-gatsby" />
+  </a>
+  <a href="https://github.com/Aliec-AQ/manga-site">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=Aliec-AQ&theme=great-gatsby" />
+  </a>
+  <a href="https://github.com/Aliec-AQ/Interop-circulation">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=Interop-circulation&theme=great-gatsby" />
+  </a>
+  <a href="https://github.com/Aliec-AQ/Interop-atmosphere">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=Interop-atmosphere&theme=great-gatsby" />
+  </a>
 </div>
-
-
-
-
