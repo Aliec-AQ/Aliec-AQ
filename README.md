@@ -1,16 +1,13 @@
 # 👋 Hello,
 
-<div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Aliec-AQ&show_icons=true&theme=great-gatsby" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliec-AQ&layout=compact&langs_count=6&theme=great-gatsby" /></div>
+<div class='center'>
+  <img style="height: auto; width: 70%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Aliec-AQ&show_icons=true&theme=great-gatsby" />
 </div>
 
 Je suis un développeur passionné par le développement web front-end et back-end.
 
 ## 🛠️ Mes compétences
-
+***
 ### Langages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
@@ -46,5 +43,9 @@ Je suis un développeur passionné par le développement web front-end et back-e
 
 ***
 
+## Languages utilisé dans les répositories
+<div class='center'>
+  <img style="height: auto; width: 70%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliec-AQ&langs_count=8&theme=great-gatsby" />
+</div>
 
 
