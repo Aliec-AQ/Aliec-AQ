@@ -2,7 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aliec-AQ&show_icons=true&theme=great-gatsby)
 
-
 Je suis un développeur passionné par le développement web front-end et back-end.
 
 ## 🛠️ Mes compétences
@@ -45,3 +44,6 @@ Je suis un développeur passionné par le développement web front-end et back-e
 ## 📈 Langages les plus utilisés dans les répo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliec-AQ&theme=great-gatsby)
+
+
+<img height=200 width=100% src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" alt="Rick Staa's Language stats" />
