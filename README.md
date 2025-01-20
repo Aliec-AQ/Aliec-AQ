@@ -13,16 +13,16 @@ Je suis un développeur passionné par le développement web front-end et back-e
 ![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-99-blue?logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-7.4-blue?logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Standard-lightgrey?logo=sql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-Database-lightgrey?logo=nosql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PLSQL-Standard-lightgrey?logo=oracle&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-Scripting-lightgrey?logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Standard-blue?logo=sql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-Database-blue?logo=nosql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PLSQL-Standard-blue?logo=oracle&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-Scripting-blue?logo=gnu-bash&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-Stylesheet-blue?logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-Stylesheet-pink?logo=sass&logoColor=white)
-![XSL](https://img.shields.io/badge/XSL-Stylesheet-lightgrey?logo=w3c&logoColor=white)
-![XML](https://img.shields.io/badge/XML-Data-lightgrey?logo=xml&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-Data-lightgrey?logo=json&logoColor=white)
+![XSL](https://img.shields.io/badge/XSL-Stylesheet-blue?logo=w3c&logoColor=white)
+![XML](https://img.shields.io/badge/XML-Data-blue?logo=xml&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-Data-blue?logo=json&logoColor=white)
 
 ### Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-2.0.0-blue?logo=flutter&logoColor=white)
@@ -32,12 +32,12 @@ Je suis un développeur passionné par le développement web front-end et back-e
 ![Twig](https://img.shields.io/badge/Twig-Template-green?logo=twig&logoColor=white)
 ![Eloquent](https://img.shields.io/badge/Eloquent-ORM-red?logo=eloquent&logoColor=white)
 ![Doctrine](https://img.shields.io/badge/Doctrine-ORM-orange?logo=doctrine&logoColor=white)
-![Slim](https://img.shields.io/badge/Slim-Framework-lightgrey?logo=slim&logoColor=white)
+![Slim](https://img.shields.io/badge/Slim-Framework-blue?logo=slim&logoColor=white)
 
 ### Outils et OS
-![Git](https://img.shields.io/badge/Git-Version%20Control-lightgrey?logo=git&logoColor=white)
-![Tests Unitaires](https://img.shields.io/badge/Tests%20Unitaires-Testing-lightgrey?logo=testing-library&logoColor=white)
-![Architecture d'Applications Web](https://img.shields.io/badge/Architecture%20d'Applications%20Web-Design-lightgrey?logo=web&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-blue?logo=git&logoColor=white)
+![Tests Unitaires](https://img.shields.io/badge/Tests%20Unitaires-Testing-blue?logo=testing-library&logoColor=white)
+![Architecture d'Applications Web](https://img.shields.io/badge/Architecture%20d'Applications%20Web-Design-blue?logo=web&logoColor=white)
 
 ***
 
