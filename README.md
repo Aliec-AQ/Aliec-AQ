@@ -48,12 +48,12 @@ Je suis un développeur passionné par le développement web front-end et back-e
 
 ***
 ## 🗃️ Projets divers 
-<div style="display: grid !important; justify-items: center !important; grid-template-columns: 1fr 1fr !important; gap: 20px !important;">
+<div>
   <a href="https://github.com/Aliec-AQ/tower-defense">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=tower-defense&theme=great-gatsby" />
   </a>
   <a href="https://github.com/Aliec-AQ/manga-site">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=Aliec-AQ&theme=great-gatsby" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=manga-site&theme=great-gatsby" />
   </a>
   <a href="https://github.com/Aliec-AQ/Interop-circulation">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=Interop-circulation&theme=great-gatsby" />
