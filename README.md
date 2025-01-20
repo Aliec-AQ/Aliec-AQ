@@ -1,15 +1,17 @@
 # 👋 Hello,
 
-<div>
+<a href="https://github.com/Aliec-AQ">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Aliec-AQ&theme=great-gatsby" />
+</a>
+<a href="https://github.com/Aliec-AQ#langages">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliec-AQ&theme=great-gatsby&layout=compact&langs_count=8&card_width=320" />
-</div>
+</a>
 
 Je suis un développeur passionné par le développement web front-end et back-end.
 
 ## 🛠️ Mes compétences
 ***
-### Langages
+### 📜 Langages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -27,7 +29,7 @@ Je suis un développeur passionné par le développement web front-end et back-e
 ![NoSQL](https://img.shields.io/badge/NoSQL-005571?logo=nosql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PLSQL-F80000?logo=oracle&logoColor=white)
 
-### Frameworks
+### ⚙️ Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -37,12 +39,27 @@ Je suis un développeur passionné par le développement web front-end et back-e
 ![Doctrine](https://img.shields.io/badge/Doctrine-FF6C37?logo=doctrine&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 
-### Outils et OS
+### 🧰 Outils et OS
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Tests Unitaires](https://img.shields.io/badge/Tests%20Unitaires-E34F26?logo=testing-library&logoColor=white)
 ![Architecture d'Applications Web](https://img.shields.io/badge/Architecture%20d'Applications%20Web-007ACC?logo=web&logoColor=white)
 
 ***
+## 🗃️ Projets divers 
+<div style="display:grid; grid: 1fr 1fr; justify-items: center;">
+<a href="https://github.com/Aliec-AQ/tower-defense">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=tower-defense&theme=great-gatsby" />
+</a>
+<a href="https://github.com/Aliec-AQ/manga-site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=manga-site&theme=great-gatsby" />
+</a>
+<a href="https://github.com/Aliec-AQ/Interop-circulation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=Interop-circulation&theme=great-gatsby" />
+</a>
+<a href="https://github.com/Aliec-AQ/Interop-atmosphere">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=Interop-atmosphere&theme=great-gatsby" />
+</a>
+</div>
 
 
 
