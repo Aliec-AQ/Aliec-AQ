@@ -4,7 +4,7 @@
 <a href="https://github.com/Aliec-AQ">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Aliec-AQ&theme=great-gatsby" />
 </a>
-<a href="https://github.com/Aliec-AQ#langages">
+<a href="https://github.com/Aliec-AQ#-langages">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliec-AQ&theme=great-gatsby&layout=compact&langs_count=8" />
 </a>
 </div>
