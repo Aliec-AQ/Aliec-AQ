@@ -1,6 +1,11 @@
 # 👋 Hello,
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aliec-AQ&show_icons=true&theme=great-gatsby)
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Aliec-AQ&show_icons=true&theme=great-gatsby)" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliec-AQ&theme=great-gatsby" /></div>
+</div>
 
 Je suis un développeur passionné par le développement web front-end et back-end.
 
@@ -41,9 +46,5 @@ Je suis un développeur passionné par le développement web front-end et back-e
 
 ***
 
-## 📈 Langages les plus utilisés dans les répo
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliec-AQ&theme=great-gatsby)
 
 
-<img height="200px" width="100%" src="https://github-readme-stats.vercel.app/api?username=Aliec-AQ&show_icons=true&theme=great-gatsby" />
