@@ -1,10 +1,10 @@
 # 👋 Hello,
 
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Aliec-AQ&show_icons=true&theme=great-gatsby)" />
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Aliec-AQ&show_icons=true&theme=great-gatsby" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliec-AQ&theme=great-gatsby" /></div>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliec-AQ&layout=compact&langs_count=8&theme=great-gatsby" /></div>
 </div>
 
 Je suis un développeur passionné par le développement web front-end et back-end.
