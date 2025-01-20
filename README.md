@@ -4,7 +4,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Aliec-AQ&theme=great-gatsby" />
 </a>
 <a href="https://github.com/Aliec-AQ#langages">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliec-AQ&theme=great-gatsby&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliec-AQ&theme=great-gatsby&layout=compact&langs_count=8" />
 </a>
 
 Je suis un développeur passionné par le développement web front-end et back-end.
@@ -51,7 +51,7 @@ Je suis un développeur passionné par le développement web front-end et back-e
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=tower-defense&theme=great-gatsby" />
 </a>
 <a href="https://github.com/Aliec-AQ/manga-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=manga-site&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=Aliec-AQ&theme=great-gatsby" />
 </a>
 <a href="https://github.com/Aliec-AQ/Interop-circulation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=Interop-circulation&theme=great-gatsby" />
