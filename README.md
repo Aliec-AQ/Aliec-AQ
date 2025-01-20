@@ -39,5 +39,5 @@ Je suis un développeur passionné par le développement web front-end et back-e
 ## 📈 Langages les plus utilisés
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=Aliec-AQ&show_icons=true&theme=highcontrast#gh-dark-mode-only](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliec-AQ&theme=highcontrast#gh-dark-mode-only)" alt="Anurag's GitHub stats" style="width: 100%; max-width: 600px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliec-AQ&theme=highcontrast#gh-dark-mode-only)" alt="Anurag's GitHub stats" style="width: 100%; max-width: 600px;" />
 </div>
