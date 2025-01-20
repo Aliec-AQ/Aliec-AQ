@@ -1,7 +1,7 @@
 # 👋 Hello,
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aliec-AQ&show_icons=true&theme=highcontrast#gh-dark-mode-only" alt="Anurag's GitHub stats" style="width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aliec-AQ&show_icons=true&theme=highcontrast#gh-dark-mode-only" alt="Anurag's GitHub stats" style="width: 100%; max-width: 600px;" />
 </div>
 
 Je suis un développeur passionné par le développement web front-end et back-end.
