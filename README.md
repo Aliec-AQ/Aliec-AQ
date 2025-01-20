@@ -62,3 +62,17 @@ Je suis un développeur passionné par le développement web front-end et back-e
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=Interop-atmosphere&theme=great-gatsby" />
   </a>
 </div>
+
+***
+
+```
+          ／＞　 フ
+         | 　_　_| 
+       ／` ミ＿xノ 
+     /　　　　 |
+    /　 ヽ　　 ﾉ
+    │　　|　|　|
+／￣|　　 |　|　|
+(￣ヽ＿_ヽ_)__)
+＼二)
+```
