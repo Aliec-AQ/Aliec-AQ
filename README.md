@@ -28,6 +28,11 @@ Je suis un développeur passionné par le développement web front-end et back-e
 ![Flutter](https://img.shields.io/badge/Flutter-2.0.0-blue)
 ![Vue.js](https://img.shields.io/badge/Vue.js-3.0.0-brightgreen)
 ![Node.js](https://img.shields.io/badge/Node.js-14.17.0-green)
+![Prisma](https://img.shields.io/badge/Prisma-ORM-blue)
+![Twig](https://img.shields.io/badge/Twig-Template-green)
+![Eloquent](https://img.shields.io/badge/Eloquent-ORM-red)
+![Doctrine](https://img.shields.io/badge/Doctrine-ORM-orange)
+![Slim](https://img.shields.io/badge/Slim-Framework-lightgrey)
 
 ### Outils et OS
 ![Git](https://img.shields.io/badge/Git-Version%20Control-lightgrey)
