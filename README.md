@@ -1,7 +1,16 @@
 # 👋 Hello,
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aliec-AQ&show_icons=true&theme=highcontrast#gh-dark-mode-only)
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Aliec-AQ&show_icons=true&theme=highcontrast&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&border_color=e4e2e2&bg_color=fffefe&hide_border=false&border_radius=4.5"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Aliec-AQ&show_icons=true&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&border_color=e4e2e2&bg_color=fffefe&hide_border=false&border_radius=4.5"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aliec-AQ&show_icons=true&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&border_color=e4e2e2&bg_color=fffefe&hide_border=false&border_radius=4.5" />
+</picture>
 
 Je suis un développeur passionné par le développement web front-end et back-end.
 
@@ -44,17 +53,14 @@ Je suis un développeur passionné par le développement web front-end et back-e
 
 ## 📈 Langages les plus utilisés
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliec-AQ&hide_progress=true&theme=highcontrast#gh-dark-mode-only&theme=)
-
-## test
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliec-AQ&hide_progress=true&theme=highcontrast&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&border_color=e4e2e2&bg_color=fffefe&hide_border=false&border_radius=4.5"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliec-AQ&hide_progress=true&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&border_color=e4e2e2&bg_color=fffefe&hide_border=false&border_radius=4.5"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliec-AQ&hide_progress=true&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&border_color=e4e2e2&bg_color=fffefe&hide_border=false&border_radius=4.5" />
 </picture>
