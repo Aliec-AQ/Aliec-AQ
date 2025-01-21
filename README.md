@@ -9,10 +9,13 @@
 </a>
 </div>
 
-Je suis un développeur passionné par le développement web front-end et back-end.
+***
+
+Je suis un étudiant passionné par le développement web front-end et back-end avec des petits projets car j'avais envie de les faire.
+
+***
 
 ## 🛠️ Mes compétences
-***
 ### 📜 Langages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
