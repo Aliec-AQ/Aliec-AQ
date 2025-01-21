@@ -64,11 +64,11 @@ Je suis un étudiant passionné par le développement web front-end et back-end 
   <a href="https://github.com/Aliec-AQ/vue-axios">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=vue-axios&theme=great-gatsby" />
   </a>
-  <a href="https://github.com/Aliec-AQ/Interop-circulation">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=Interop-circulation&theme=great-gatsby" />
+  <a href="https://github.com/EtiqueKevin/projet-tutore">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EtiqueKevin&repo=projet-tutore&theme=great-gatsby" />
   </a>
-  <a href="https://github.com/Aliec-AQ/Interop-atmosphere">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=Interop-atmosphere&theme=great-gatsby" />
+  <a href="https://github.com/EtiqueKevin/NRV-Atelier-web-1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EtiqueKevin&repo=NRV-Atelier-web-1&theme=great-gatsby" />
   </a>
 </div>
 
