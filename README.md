@@ -55,6 +55,9 @@ Je suis un étudiant passionné par le développement web front-end et back-end 
   <a href="https://github.com/Aliec-AQ/tower-defense">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=tower-defense&theme=great-gatsby" />
   </a>
+    <a href="https://github.com/Aliec-AQ/manga-site">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=manga-site&theme=great-gatsby" />
+  </a>
   <a href="https://github.com/Aliec-AQ/vue-alert">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=vue-alert&theme=great-gatsby" />
   </a>
