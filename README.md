@@ -11,7 +11,7 @@
 
 ***
 
-Je suis un étudiant passionné par le développement web front-end et back-end avec des petits projets car j'avais envie de les faire.
+Je suis un étudiant en informatique à l'IUT Nancy Charlemagne,  passionné par le développement web front-end et back-end avec des petits projets car j'avais envie de les faire.
 
 ***
 
@@ -42,8 +42,11 @@ Je suis un étudiant passionné par le développement web front-end et back-end 
 ### 🧰 Outils et OS
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
 ***
+## 📖 Sur quoi je travaille
+- Des projets personnels
+- Des projets de l'université
+
 ## 🗃️ Projets divers 
 <div>
   <a href="https://github.com/Aliec-AQ/tower-defense">
