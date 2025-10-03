@@ -49,6 +49,9 @@ Je suis un étudiant en informatique à l'IUT Nancy Charlemagne,  passionné par
   <a href="https://github.com/EtiqueKevin/NRV-Atelier-web-1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EtiqueKevin&repo=NRV-Atelier-web-1&theme=great-gatsby" />
   </a>
+  <a href="https://github.com/Aliec-AQ/stan-webapp">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EtiqueKevin&repo=NRV-Atelier-web-1&theme=great-gatsby" />
+  </a>
 </div>
 
 ***
