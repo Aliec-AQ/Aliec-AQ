@@ -44,13 +44,13 @@ Je suis un étudiant en Master Informatique a l’Université de Fribourg, passi
 ## 🗃️ Projets divers 
 <div>
   <a href="https://github.com/EtiqueKevin/projet-tutore">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EtiqueKevin&repo=projet-tutore&theme=great-gatsby" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=EtiqueKevin&repo=projet-tutore&theme=great-gatsby" />
   </a>
   <a href="https://github.com/EtiqueKevin/NRV-Atelier-web-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EtiqueKevin&repo=NRV-Atelier-web-1&theme=great-gatsby" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=EtiqueKevin&repo=NRV-Atelier-web-1&theme=great-gatsby" />
   </a>
   <a href="https://github.com/Aliec-AQ/stan-webapp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliec-AQ&repo=stan-webapp&theme=great-gatsby" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Aliec-AQ&repo=stan-webapp&theme=great-gatsby" />
   </a>
 </div>
 
