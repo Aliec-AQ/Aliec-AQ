@@ -2,16 +2,16 @@
 
 <div>
 <a href="https://github.com/Aliec-AQ">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Aliec-AQ&theme=great-gatsby" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=Aliec-AQ&theme=great-gatsby" />
 </a>
 <a href="https://github.com/Aliec-AQ#-langages">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliec-AQ&theme=great-gatsby&layout=compact&langs_count=8" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aliec-AQ&theme=great-gatsby&layout=compact&langs_count=8" />
 </a>
 </div>
 
 ***
 
-Je suis un étudiant en informatique à l'IUT Nancy Charlemagne,  passionné par le développement web front-end et back-end avec des petits projets car j'avais envie de les faire.
+Je suis un étudiant en Master Informatique a l’Université de Fribourg, passionné par le développement web front-end et back-end avec des petits projets car j'avais envie de les faire.
 
 ***
 
